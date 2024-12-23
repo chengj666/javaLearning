@@ -10,6 +10,7 @@ public class HelloWorld {
         System.out.println("hello Master");
    
         System.out.println("hello dev");
+        System.out.println("hello github");
 
     }
 }
